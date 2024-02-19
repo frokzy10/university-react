@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #222;
+    padding: 1% 2%;
+}
+header .logoTitleContainer{
+    display: flex;
+    align-items: center;
+    gap: 10px
+}
+header div h3{
+    color: #ffffff;
+    font-family: 'Aeroport',sans-serif;
+    font-weight: 500;
+}
+header span{
+    color: #dddddd;
+    font-family: "Aeroport Medium",sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+}
